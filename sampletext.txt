@@ -3,3 +3,6 @@
 
 
 I will try to check status, add, and commit my work
+
+
+I think I am ok with git 
