@@ -1,0 +1,5 @@
+# this is a sample to test if I fully understand git 
+
+
+
+I will try to check status, add, and commit my work
